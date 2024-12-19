@@ -11,3 +11,5 @@ Text-to-speech Converter used to convert your text to the speech as per the sele
     HTML
     CSS
     JAVASCRIPT
+ LIVE DEMO
+ https://kashishgour.github.io/Text---to---speech/
